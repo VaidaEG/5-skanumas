@@ -1,19 +1,22 @@
-body{
+body {
     background-color: #E9E2DC;
     margin:0;
 }
-    img{
+    div {
+        padding: 15px;
+    }
+    img {
         display: block;
         width:100%;
-
-}
+    }
     
     h1{
         display:block;
         text-align: center;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 20px;
+        font-size: 40px;
         font-family: 'Satisfy', cursive;
         color: #87491B;
-        margin-top:70px;
+        margin-top: 10px;
+        padding: 15px;
     }

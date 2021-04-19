@@ -3,11 +3,12 @@ body {
     margin:0;
 }
     div {
-        padding: 15px;
+        padding: 30px;
     }
     img {
         display: block;
-        width:100%;
+        width:80%;
+        margin: 0 auto;
     }
     
     h1{
